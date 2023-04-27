@@ -1,1 +1,13 @@
-
+{
+  "Recipes":
+  [
+    {"RecipeName":"Margherita Pizza","RecipeDescription":"A Neopolitan classic thaat consists of dollops of mozarella cheese, vine-ripned San Marzano tomatoes, fresh basil, salt and a finishing touch of extra-virgin olive oil","RecipeID":1,"RecipeCookTime":"40 min.","RecipePrepTime":"10 min.","RecipeCountryOrigin":"Italian","RecipeIngredients":"Mozarella, Sauce, Yeast, Dough","RecipeImageName":"https://raw.githubusercontent.com/hnawab11/JSONProjectsIT315/master/margheritapizza.jpeg", "RecipeWebSiteAddress": "https://www.allrecipes.com/recipe/133948/four-cheese-margherita-pizza/"},
+    {"RecipeName":"Name","RecipeDescription":"Desc","RecipeID":1,"RecipeCookTime":"","RecipePrepTime":"","RecipeCountryOrigin":"","RecipeIngredients":"","RecipeImageName":"", "RecipeWebSiteAddress": ""},
+    {"RecipeName":"Name","RecipeDescription":"Desc","RecipeID":1,"RecipeCookTime":"","RecipePrepTime":"","RecipeCountryOrigin":"","RecipeIngredients":"","RecipeImageName":"", "RecipeWebSiteAddress": ""},
+    {"RecipeName":"Name","RecipeDescription":"Desc","RecipeID":1,"RecipeCookTime":"","RecipePrepTime":"","RecipeCountryOrigin":"","RecipeIngredients":"","RecipeImageName":"", "RecipeWebSiteAddress": ""},
+    {"RecipeName":"Name","RecipeDescription":"Desc","RecipeID":1,"RecipeCookTime":"","RecipePrepTime":"","RecipeCountryOrigin":"","RecipeIngredients":"","RecipeImageName":"", "RecipeWebSiteAddress": ""},
+    {"RecipeName":"Name","RecipeDescription":"Desc","RecipeID":1,"RecipeCookTime":"","RecipePrepTime":"","RecipeCountryOrigin":"","RecipeIngredients":"","RecipeImageName":"", "RecipeWebSiteAddress": ""}
+    
+  ],
+  "Status":"OK"
+}
